@@ -1,0 +1,12 @@
+body {background-color:lightblue;}
+	h1   {color:rgb(52, 164, 216);font-size:20pt;}
+    hr   {color:rgb(228, 124, 207);}
+    div
+    {
+	float:right;
+	padding:15px;
+	border:1px solid rgb(163, 127, 221);
+    border-radius:20px;
+    margin:0 0 15px 20px;
+	text-align:center;
+    }
